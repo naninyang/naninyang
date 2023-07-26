@@ -11,8 +11,8 @@ Seoul, Rep. of Korea
 <a href="https://dev-il-studio.postype.com/" target="_blank" rel="noopener noreferrer nofollow">Devil Studio</a>
 
 # Career
-- UX/UI 디자인: 2013년 3월 ~
-- 웹 퍼블리싱: 2018년 2월 ~
+- UX/UI 디자인: 2003년 3월 ~
+- 웹 퍼블리싱: 2008년 2월 ~
 - 웹 기획: 2012년 5월 ~
 
 # Now...
