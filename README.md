@@ -7,9 +7,6 @@
 # Location
 Seoul, Rep. of Korea
 
-# Occupation in organization
-UX/UI Designer, Tech Lead
-
 # Contents
 <a href="https://dev-il-studio.postype.com/" target="_blank" rel="noopener noreferrer nofollow">Devil Studio</a>
 
