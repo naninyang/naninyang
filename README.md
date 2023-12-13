@@ -7,9 +7,6 @@
 # Location
 Seoul, Rep. of Korea
 
-# Contents
-<a href="https://dev-il-studio.postype.com/" target="_blank" rel="noopener noreferrer nofollow">Devil Studio</a>
-
 # Career
 - UX/UI 디자인: 2003년 3월 ~
 - 웹 퍼블리싱: 2008년 2월 ~
@@ -24,6 +21,8 @@ UX/UI 디자인은 Figma로 진행하며, Next.js 환경에서 웹 퍼블리싱 
 
 근무는 리모트근무를 지향합니다.
 
-문의는 1157iamari 로 주세요. 지메일입니다. (지메일 서비스 내에서는 아이디만 입력해도 전송 가능합니다)
+슬랙을 운영하고 있습니다. `일반`채널에서 프로젝트 문의를 하시면 프라이빗 채널을 열어드립니다.
 
-슬랙을 운영하고 있습니다. `일반`채널에서 프로젝트 문의를 하시면 프라이빗 채널을 열어드립니다. https://arisdevelop.slack.com/
+- 슬랙: https://arisdevelop.slack.com
+- 개인프로젝트 소개: https://dev1stud.io
+- 개발 블로그: https://develog.dev1stud.io
