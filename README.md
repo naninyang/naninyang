@@ -24,6 +24,7 @@ UX/UI 디자인은 Figma로 진행하며, Next.js 환경에서 웹 퍼블리싱 
 
 슬랙을 운영하고 있습니다. `일반`채널에서 프로젝트 문의를 하시면 프라이빗 채널을 열어드립니다.
 
-- 슬랙: https://arisdevelop.slack.com
+- 개인회사 운영: 데브런닷스튜디오 (영문명: DEV1L.studios)
+- 슬랙: https://dev1lstudios.slack.com
 - 개인프로젝트 소개: https://dev1stud.io
-- 개발 블로그: https://develog.dev1stud.io
+- 데브공방: https://devfab.kr
